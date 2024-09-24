@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ContinuousIntegration</string>
+    <string name="new_string">New String</string>
+    <string name="string_info">String Info</string>
 </resources>
